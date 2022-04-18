@@ -1,4 +1,4 @@
-### Hi there 👋
+### 안녕하세요! 스프링 백엔드 엔지니어를 희망하는 홍석주의 Github입니다! 😄
 
 <!--
 **somefood/somefood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,8 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### I'm interested in...
+### I'm interested in
 
-- Java/Spring Boot
-- Python/Django
+- Java
+- Spring
+  - Spring MVC
+  - Spring Boot
+  - Spring Security
+  - Spring Data JPA
+- Python
+- Django
 - Docker
