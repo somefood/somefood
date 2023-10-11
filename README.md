@@ -1,4 +1,4 @@
-# 안녕하세요. 백엔드 엔지니어를 희망하는 홍석주입니다! 😄
+# 안녕하세요. 백엔드 엔지니어 홍석주입니다! 😄
 
 **Today visitor** [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsomefood&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
